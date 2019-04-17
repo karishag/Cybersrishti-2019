@@ -4,7 +4,7 @@
   "name": "Cybersrishti-2019",
   "short_name": "Cybersrishti-2019",
   "version": "tech.cybersrishti.cs2019",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "App for technical fest (Cybersrishti) for Jaypee College!",
   "author": "NGUdbhav",
   "icons": [],
   "start_url": "index.html"

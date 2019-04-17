@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="tech.cybersrishti.cs2019" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="tech.cybersrishti.cs2019" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Cybersrishti-2019</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        App for technical fest (Cybersrishti) for Jaypee College!
     </description>
     <author email="ngudbhav05@hotmail.com" href="https://www.ngudbhav.me">
         NGUdbhav
@@ -63,7 +63,6 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <preference name="fullscreen" value="true" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
@@ -73,4 +72,5 @@
     </platform>
     <engine name="android" spec="~7.1.4" />
     <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
+    <plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
 </widget>
