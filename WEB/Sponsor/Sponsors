@@ -62,68 +62,102 @@
       </nav>
       
       <div data-spy = "scroll" id="sponsors" class="container-fluid" style="padding-top:70px;padding-bottom:70px; height: 150%;">
-        <div class="view" style="background-image: young-passion-gradient background-repeat: no-repeat; background-size: cover; background-position: center center; height: 150%;">
-            <!-- Mask & flexbox options-->
-            <div class="mask rgba-gradient d-flex justify-content-center align-items-center">
-              <!-- Content -->
-              <div class="container">
-                <!--Grid row-->
-            <div class="row">
-              <!--Grid column-->
-              <div class="col-md-6 text-md-left mt-xl-5 mt-5 code code--small code--left" data-aos="fade-left" >
-                <!-- <h1 class="h1-responsive font-weight-bold mt-sm-5">Make purchases with our app </h1>
-                <hr class="hr-light">
-                <h6 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
-                dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
-                iste.</h6>
-                <a class="btn btn-outline-white">Download</a>
-                <a class="btn btn-outline-white">Learn more</a> -->
-                <img src="Du_Assistants.jpg" class="rounded float-right mr-3" alt="thumbnail" style="height: 150px; width: 150px;">
-              </div>
-              <div class="col-md-6 text-md-left mt-xl-5 mt-5" data-aos="fade-right">
-                <img src="du_beat.jpg" class="rounded float-left ml-3" alt="thumbnail" style="height: 150px; width: 150px;">
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-md-5 mt-xl-5 mt-5" data-aos = "fade-left">
-                <img src="DU-Khabar-Logo-2.png" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right">
-              </div>
-              <div class="col-md-4 text-md-left mt-xl-5 mt-5 " data-aos = "fade-right">
-                <img src="FB_IMG_15236203810421.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-8">
-              </div>
-            </div>
-
-            <div class="row">
-              <div data-aos = "fade-left" class="col-md-4 text-md-left mt-xl-5 mt-5 ">
-                <img src="festpav.png"  class="rounded float-right mr-7" alt="thumbnail" style="height: 150px; width: 150px;">
-              </div>
-              <div class="col-md-6 text-md-left mt-xl-5 mt-5 " data-aos = "fade-right">
-                <img src="INTERNITY_LOGO1.png" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-7">
-              </div>
-            </div>
-
-            <div class="row">
-              <div data-aos = "fade-left" class="col-md-3 text-md-left mt-xl-5 mt-5">
-                <img src="Du_Assistants.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right mr-3">
-              </div>
+        <!-- <div class="view" style="background-image: young-passion-gradient background-repeat: no-repeat; background-size: cover; background-position: center center; height: 150%;">-->
+            
+           <div class="container">   
+            <div class="row" style="text-align: center;">
               
-            <div data-aos = "fade-right" class="col-md-8 text-md-left mt-xl-5 mt-5 ">
-                <img src="du_beat.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-3">
-              </div></div>
+              <div class="col-md-3 code mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/jugnoo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left">
+                <img src="Sponsor/collegedunia.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/carhp_Regular_logo.png" alt="thumbnail" class="rounded" style="height: 200px; width:200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/zoutons_logo.png" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
 
 
+            </div>
+
+            <br><br>
+            <div class="row" style="text-align: center;">
+              
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/FestUpdates.jpeg" alt="thumbnail" class="rounded float-right" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-bottom">
+                <img src="Sponsor/foodly_goodly_logo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Logo 1.jpg" alt="thumbnail" class="rounded" style="height: 200px; width:200px;">
+              </div>
+            
+
+            </div>
+            <br><br><br><br><br><br><br><br>
+            <h1 style="text-align: center;">Media Sponsors</h1>
+
+            <div class="row" style="text-align: center;">
+              <div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/Media/IMG-20190321-WA0023.jpg" alt="thumbnail" class="rounded float-right" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Media/IMG-20190321-WA0024.jpg" alt="thumbnail" class="rounded float-left" style="height: 200px; width: 200px;">
+              </div>
               
             </div>
 
+            <div class="row" style="text-align: center;">
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/Media/Insight.png" alt="thumbnail" class="rounded float-right" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-bottom">
+                <img src="Sponsor/Media/ATKT-eng.png" alt="thumbnail"  class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-4 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Media/KnowAFest.jpg" alt="thumbnail" class="rounded float-left" style="height: 200px; width: 200px;">
+              </div>
+            </div>
 
+            <div class="row" style="text-align: center;">
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/Media/Campus Bloggers.jpeg" alt="thumbnail" class="rounded float-right" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-left">
+                <img src="Sponsor/Media/Du_Assistants.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Media/The Campus Media Logo.jpg" alt="thumbnail" class="rounded" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-3 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Media/IMG_1742.jpeg" alt="thumbnail" class="rounded float-left" style="height: 200px; width: 200px;">
+              </div>
+            </div>
 
-
+            <br>
+            <div class="row" style="text-align: center;">
+              <div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-left" >
+                <img src="Sponsor/Media/LOGO.jpg" alt="thumbnail" class="rounded float-right" style="height: 200px; width: 200px;">
+              </div>
+              <div class="col-md-6 mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="Sponsor/Media/the-education-tree-logo.jpg" alt="thumbnail" class="rounded float-left" style="height: 200px; width: 200px;">
+              </div>
               
             </div>
-          </div>
+
+
+
+            <br><br><br><br><br><br><br><br>
+            
+
+              
+            </div>  
         </div>
-      </div>
+    
 
 
       <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
