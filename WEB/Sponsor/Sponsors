@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.4/css/mdb.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.4/js/mdb.min.js"></script>
+      <script>
+        $(document).ready(function(){
+          $(".active").removeClass('active');
+        });
+      </script>
+
+    <title>Cyber Srishti</title>
+    <style type="text/css">
+      html, body, .container{
+        height: 100%;
+      }
+    </style>
+  </head>
+  <style>
+    body {
+      position: relative; 
+    }
+    </style>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
+  
+  
+    <!-- <div class = "col text-center"> 
+     <h3>Sign Up</h3>
+    </div>
+    <br> -->
+      <nav class="navbar navbar-expand-lg bg-dark fixed-top navbar-dark scrolling navbar">
+        <a class="navbar-brand actives" href="#showabout">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            
+          </ul>
+          <ul class="navbar-nav" style="margin-right: 3%;">
+            <li class="nav-item ">
+              <a class="nav-link" href="#sponsors">Sponsors <!-- <span class="sr-only">(current)</span> --></a>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link" href="#contacts">Contact Us</a>
+            </li>
+            <!-- <li class="nav-item ">
+              <a class="nav-link" href="#team">Team</a>
+            </li> -->
+          </ul>
+      </nav>
+      
+      <div data-spy = "scroll" id="sponsors" class="container-fluid" style="padding-top:70px;padding-bottom:70px; height: 150%;">
+        <div class="view" style="background-image: young-passion-gradient background-repeat: no-repeat; background-size: cover; background-position: center center; height: 150%;">
+            <!-- Mask & flexbox options-->
+            <div class="mask rgba-gradient d-flex justify-content-center align-items-center">
+              <!-- Content -->
+              <div class="container">
+                <!--Grid row-->
+            <div class="row">
+              <!--Grid column-->
+              <div class="col-md-6 text-md-left mt-xl-5 mt-5 code code--small code--left" data-aos="fade-left" >
+                <!-- <h1 class="h1-responsive font-weight-bold mt-sm-5">Make purchases with our app </h1>
+                <hr class="hr-light">
+                <h6 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
+                dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
+                iste.</h6>
+                <a class="btn btn-outline-white">Download</a>
+                <a class="btn btn-outline-white">Learn more</a> -->
+                <img src="Du_Assistants.jpg" class="rounded float-right mr-3" alt="thumbnail" style="height: 150px; width: 150px;">
+              </div>
+              <div class="col-md-6 text-md-left mt-xl-5 mt-5" data-aos="fade-right">
+                <img src="du_beat.jpg" class="rounded float-left ml-3" alt="thumbnail" style="height: 150px; width: 150px;">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-5 mt-xl-5 mt-5" data-aos = "fade-left">
+                <img src="DU-Khabar-Logo-2.png" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right">
+              </div>
+              <div class="col-md-4 text-md-left mt-xl-5 mt-5 " data-aos = "fade-right">
+                <img src="FB_IMG_15236203810421.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-8">
+              </div>
+            </div>
+
+            <div class="row">
+              <div data-aos = "fade-left" class="col-md-4 text-md-left mt-xl-5 mt-5 ">
+                <img src="festpav.png"  class="rounded float-right mr-7" alt="thumbnail" style="height: 150px; width: 150px;">
+              </div>
+              <div class="col-md-6 text-md-left mt-xl-5 mt-5 " data-aos = "fade-right">
+                <img src="INTERNITY_LOGO1.png" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-7">
+              </div>
+            </div>
+
+            <div class="row">
+              <div data-aos = "fade-left" class="col-md-3 text-md-left mt-xl-5 mt-5">
+                <img src="Du_Assistants.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right mr-3">
+              </div>
+              
+            <div data-aos = "fade-right" class="col-md-8 text-md-left mt-xl-5 mt-5 ">
+                <img src="du_beat.jpg" alt="thumbnail" style="height: 150px; width: 150px;" class="rounded float-right ml-3">
+              </div></div>
+
+
+              
+            </div>
+
+
+
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
+  </body>
+</html
